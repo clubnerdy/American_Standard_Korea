@@ -17,6 +17,9 @@ a {
 }
 
 body {
+    min-width: 1920px;
+    width: 100%;
+    /* 브라우저 사이즈 맞추기 */
     line-height: 1;
     color: #333;
     font-family: 'Noto Sans KR', sans-serif;
